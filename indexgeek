@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Links | Profissional TI</title>
+<style>
+    body {
+        font-family: "Inter", sans-serif;
+        background: #0d1117;
+        color: #e6edf3;
+        text-align: center;
+        padding: 24px;
+    }
+
+    .container {
+        max-width: 420px;
+        margin: auto;
+        background: #161b22;
+        padding: 28px;
+        border-radius: 20px;
+        box-shadow: 0 0 18px #0ea5e980;
+    }
+
+    img {
+        width: 110px;
+        border-radius: 50%;
+        margin-bottom: 18px;
+        border: 3px solid #0ea5e9;
+    }
+
+    h1 {
+        font-size: 26px;
+        margin-bottom: 8px;
+        color: #58a6ff;
+    }
+
+    p {
+        margin-bottom: 22px;
+        color: #9fbcd3;
+        font-size: 15px;
+    }
+
+    a {
+        display: block;
+        background: #0ea5e9;
+        color: #fff;
+        padding: 14px;
+        margin: 10px 0;
+        border-radius: 12px;
+        text-decoration: none;
+        font-size: 17px;
+        font-weight: 600;
+        transition: 0.25s ease-in-out;
+    }
+
+    a:hover {
+        background: #38bdf8;
+        transform: translateY(-2px);
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+    <img src="https://via.placeholder.com/150" alt="Foto de Perfil">
+    <h1>Seu Nome</h1>
+    <p>Profissional de TI | Geek de Boa | Neon Blue Vibes ⚡</p>
+
+    <a href="#">Instagram</a>
+    <a href="#">LinkedIn</a>
+    <a href="#">GitHub</a>
+    <a href="#">Portfólio</a>
+    <a href="#">Contato</a>
+</div>
+
+</body>
+</html>
